@@ -1,0 +1,19 @@
+{
+    "freelancers": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john@example.com",
+            "password": "password",
+            "profession": "Web Developer",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "hourly_rate": 25,
+            "profile_picture": "https://d2qp0siotla746.cloudfront.net/img/use-cases/profile-picture/template_3.jpg",
+            "isBooked": false
+        }
+    ]
+}
